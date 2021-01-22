@@ -1,0 +1,1 @@
+detailkuliner.php
